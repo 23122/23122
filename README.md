@@ -23,6 +23,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23122&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <div align="left">
 ### 🛠 Tech Stack 🛠
+<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <br>
