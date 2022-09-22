@@ -21,12 +21,10 @@
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23122&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-<br>
 <div align="left">
 ### 🛠 Tech Stack 🛠
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 <br>
