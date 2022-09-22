@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23122&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ccoco)](https://solved.ac/ccoco)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=23122)](https://solved.ac/23122)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23122&show_icons=true&theme=radical)
 
