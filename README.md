@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Thymeleaf-6DB33F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
