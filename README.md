@@ -26,7 +26,7 @@
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-F80000?style=flat-square&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
