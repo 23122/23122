@@ -21,7 +21,7 @@
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23122&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-<div align="left">
+<div align="right">
 ### 🛠 Tech Stack 🛠
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
