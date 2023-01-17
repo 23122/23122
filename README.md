@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=23122&show_icons=true&theme=dracula&hide="/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=23122&show_icons=true&theme=dracula"/>
 
 ### 🐣 23122 🐥 
 
