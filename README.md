@@ -20,7 +20,7 @@
 
 ---
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23122&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23122&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=7"/>
 <div align="left">
 ### 🛠 Tech Stack 🛠
 <br>
