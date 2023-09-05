@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="50%" src="https:///github-readme-stats-six-ivory-11.vercel.app/api?username=23122&show_icons=true&theme=dracula"/>
+<img align="right" width="50%" src="https://github-readme-stats-six-ivory-11.vercel.app/api?username=23122&show_icons=true&theme=dracula"/>
 
 ### 🐣 23122 🐥 
 
